@@ -3,7 +3,7 @@
 // AD SOYAD:HAMZA OĞUS
 // ÖĞRENCİ NO:2420171030
 // SERTİFİKA LİNKİ: file:///C:/Users/Hamza/Downloads/Versiyon_Kontrolleri__Git_ve_GitHub_Sertifika%20(1).pdf
-
+Sertifika No:kK1hb7mL81
 
 void sirala(int dizi[], int n) {
     int i, j, enKucukIndis, gecici;
@@ -58,4 +58,5 @@ int main() {
     }
 
     return 0;
+
 }
