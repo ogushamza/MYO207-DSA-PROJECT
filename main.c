@@ -2,7 +2,6 @@
 // AD SOYAD:HAMZA OĞUS
 // ÖĞRENCİ NO:2420171030
 // SERTİFİKA LİNKİ:https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=kK1hb7mL81
-//Sertifika No:kK1hb7mL81
 
 void sirala(int dizi[], int n) {
     int i, j, enKucukIndis, gecici;
@@ -59,4 +58,5 @@ int main() {
     return 0;
 
 }
+
 
